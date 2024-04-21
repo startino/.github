@@ -1,7 +1,7 @@
 # Welcome to Futino!
 
 ### Our Mission
-Leverage the power of modern technologies and open-source software to help non-tech founders actualize their software idea in a holistic manner.
+Help non-tech founders build their software ideas into a successful software business.
 ### What We Do
 At Futino, we act as a tech co-founder for non-tech founders to help build their software idea. We offer the reliability, conviction, and passion of a co-founder without the risk of partnering with a (random) tech partner online or dealing with development agencies that aren't committed enough, produce generic solutions, and possibly have communication (language or technical) barriers. On the side, we spend our time building our software projects like [Aitino](https://aiti.no).
 ### Why We Do It
