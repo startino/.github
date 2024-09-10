@@ -19,10 +19,6 @@ Our secret sauce lies in harnessing the power of modern technologies and mixing 
 ### Explore More
 
 - [Startino's Website](https://futi.no)
-- [Startino's Mono-repo](https://github.com/futino/futino)
-
-- [Aitino's Website](https://aiti.no)
-- [Aitino's Repository](https://github.com/futino/aitino)
 
 ## The Founders
 
