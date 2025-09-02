@@ -41,7 +41,7 @@ Our secret sauce lies in harnessing the power of modern technologies and mixing 
 
 ### Get in Touch
 
-Have questions, ideas, or feedback? We'd love to hear from you. Reach out to us through our [website](https://starti.no/?utm_source=github&utm_medium=readme)!.
+Have questions, ideas, or feedback? We'd love to hear from you. Reach out to us through our [website](https://starti.no/?utm_source=github&utm_medium=readme)!
 
 Let's build revenue-generating AI products.
 ---
